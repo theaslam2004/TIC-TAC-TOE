@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the X O 1.0
+---------------------------------------------------
+
+app_name - 						X O
+app_alias - 					xo
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Karnataka
+app_author_country - 			India
+app_password - 					V9DNTSksS9jr
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Wednesday 27th of March 2024 03:29:32 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+

@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #1a122e, #434e8b);
+}
+
+.container {
+    text-align: center;
+    background: linear-gradient(135deg, #edf0f0, #63768a); /* Set background color for the game container */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 0px 20px 20px rgb(95, 102, 102); /* Add a subtle shadow */
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 5px;
+    margin-bottom: 10px;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    cursor: pointer;
+}
